@@ -1,7 +1,7 @@
 WORKSHOP_TITLE
 ================
 
-### rstudio::conf 2022
+### posit::conf 2023
 
 by INSTRUCTOR_NAME
 
@@ -16,10 +16,10 @@ can remove these instructions from the README.
 
 -----
 
-:spiral_calendar: July 25 and 26, 2022  
+:spiral_calendar: September 17 and 18, 2023  
 :alarm_clock:     09:00 - 17:00  
 :hotel:           \[ADD ROOM\]  
-:writing_hand:    [rstd.io/conf](http://rstd.io/conf)
+:writing_hand:    [pos.it/conf](http://pos.it/conf)
 
 -----
 
