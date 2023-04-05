@@ -14,33 +14,34 @@ welcomed to add more rows to the schedule. We just ask that you take
 breaks at the specified times. Once you are done adding information, you
 can remove these instructions from the README.
 
+Alternatively, you can completely redo the organization of this repo 
+as a Quarto website or some other format you prefer to host your workshop
+materials. The only requirement is that your workshop materials are hosted 
+here.
+
 -----
 
 :spiral_calendar: September 17 and 18, 2023  
 :alarm_clock:     09:00 - 17:00  
-:hotel:           \[ADD ROOM\]  
+:hotel:           ROOM TBD 
 :writing_hand:    [pos.it/conf](http://pos.it/conf)
 
 -----
 
 ## Overview
 
-ABSTRACT
+ADD ABSTRACT
 
-## Learning objectives
+**This workshop is for you if you...*
 
-LEARNING_OBJECTIVES
-
-## Is this course for me?
-
-THREE_QUESTIONS
+ADD THREE POINTS
 
 ## Prework
 
-\[ADD INFORMATION YOU WANT LEARNERS TO HAVE / STEPS THEY WANT THEM TO
+ADD INFORMATION YOU WANT LEARNERS TO HAVE / STEPS THEY WANT THEM TO
 COMPLETE PRIOR TO THE WORKSHOP. THIS COULD BE A LINK TO A THREAD ON
 RSTUDIO COMMUNITY, PACKAGE INSTALL INSTRUCTIONS, HOW TO GET AN
-RSTUDIO.CLOUD ACCOUNT, ETC.\]
+RSTUDIO.CLOUD ACCOUNT, ETC.
 
 ## Schedule
 
@@ -70,7 +71,7 @@ RSTUDIO.CLOUD ACCOUNT, ETC.\]
 
 ## Instructor
 
-\[ADD INSTRUCTOR BIO\]
+ADD INSTRUCTOR BIO
 
 -----
 
